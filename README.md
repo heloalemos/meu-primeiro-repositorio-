@@ -5,4 +5,10 @@
 -estou desenvolvendo em linguagem javenScrit
 -🥇👱‍♀️💸
 -@heloa.lemos.c
--{}(https://media1.tenor.com/m/oN31wv4z4tQAAAAC/captain-america-avengers-endgame.gif)
+
+
+
+
+
+
+![](https://media1.tenor.com/m/oN31wv4z4tQAAAAC/captain-america-avengers-endgame.gif)
