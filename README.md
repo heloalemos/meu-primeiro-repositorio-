@@ -5,4 +5,4 @@
 -estou desenvolvendo em linguagem javenScrit
 -🥇👱‍♀️💸
 -@heloa.lemos.c
--{} (https://media.tenor.com/sVQ9qF3ObEEAAAAi/groot-cute.gif)
+-{}(https://media.tenor.com/sVQ9qF3ObEEAAAAi/groot-cute.gif)
